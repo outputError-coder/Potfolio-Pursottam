@@ -28,7 +28,12 @@ const WORK = [
     description:
       "Edited in After Effects, inspired by a random Instagram video and recreated. Time taken: 8–9 hours."
   },
-
+  {
+    title: "Promo video — sample 2",
+    youtubeUrl: "https://www.youtube.com/watch?v=tNEtJoomB3o",
+    description:
+      "Edited in After Effects, inspired by a random Instagram video and recreated. Time taken: 8–9 hours."
+  },
   {
     title: "Promo video — sample 3",
     youtubeUrl: "https://youtube.com/shorts/7Bnr8Zw26Mc",
