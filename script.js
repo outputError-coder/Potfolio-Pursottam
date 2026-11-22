@@ -29,27 +29,27 @@ const WORK = [
       "Edited in After Effects, inspired by a random Instagram video and recreated. Time taken: 8–9 hours."
   },
   {
-    title: "Promo video — sample 2",
+    title: "Promo video — sample 3",
     youtubeUrl: "https://www.youtube.com/watch?v=tNEtJoomB3o",
     description:
-      "Edited in After Effects, inspired by a random Instagram video and recreated. Time taken: 8–9 hours."
+      ""
   },
   {
-    title: "Promo video — sample 3",
+    title: "Promo video — sample 4",
     youtubeUrl: "https://youtube.com/shorts/7Bnr8Zw26Mc",
     description:
       "Edited in After Effects."
   },
 
   {
-    title: "Promo video — sample 4",
+    title: "Promo video — sample 5",
     youtubeUrl: "https://youtu.be/tn85ztqu8GA?si=2awYUIhzBdGUVr_f",
     description:
       "Edited in Premiere Pro for my previous workplace. Time taken: 5 hours."
   },
 
   {
-    title: "Facebook Reel — sample 5",
+    title: "Facebook Reel — sample 6",
     youtubeUrl: "https://www.facebook.com/share/r/1GbJhoy6PG/",
     description:
       "Edited in Premiere Pro for my previous workplace. Time taken: 5–6 hours."
